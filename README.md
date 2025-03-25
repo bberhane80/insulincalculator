@@ -1,5 +1,3 @@
-# ruby-cli-template
-
-Use this repository as a template for your Ruby CLI (command line interface) project.
+CLI app to calculate how much insulin a user should adminster when eating a meal. 
 
 - Ruby version: `3.2.1`
